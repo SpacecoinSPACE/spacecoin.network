@@ -1002,7 +1002,7 @@ ol {
 	left: 0;
 	top: 0;
 	height: 100%;
-	width: 50%;
+	width: 33%;
 	background: #0B052F;
 	content: "";
 	z-index: -1;
@@ -1013,7 +1013,7 @@ ol {
 	right: 0;
 	top: 0;
 	height: 100%;
-	width: 50%;
+	width: 67%;
 	background: #0E0739;
 	content: "";
 	z-index: -1;
