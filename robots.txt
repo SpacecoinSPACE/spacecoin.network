@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://spacecoin.network/sitemap.xml
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
