@@ -53,7 +53,7 @@ h6 {
 }
 
 h1 {
-	font-size: 70px;
+	font-size: 36px;
 }
 
 h2 {
@@ -461,6 +461,11 @@ ol {
 	opacity: 1;
 }
 
+.hero__slider.owl-carousel .owl-item.active .hero__item .hero__text h1 {
+	top: 0;
+	opacity: 1;
+}
+
 .hero__slider.owl-carousel .owl-item.active .hero__item .hero__text .primary-btn {
 	top: 0;
 	opacity: 1;
@@ -518,6 +523,20 @@ ol {
 }
 
 .hero__item .hero__text h2 {
+	color: #ffffff;
+	font-weight: 700;
+	line-height: 47px;
+	text-transform: uppercase;
+	margin-bottom: 28px;
+	position: relative;
+	top: 100px;
+	opacity: 0;
+	-webkit-transition: all 0.6s ease-out;
+	-o-transition: all 0.6s ease-out;
+	transition: all 0.6s ease-out;
+}
+
+.hero__item .hero__text h1 {
 	color: #ffffff;
 	font-weight: 700;
 	line-height: 47px;
@@ -1181,6 +1200,13 @@ ol {
 }
 
 .about__text h2 {
+	color: #111111;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+}
+
+.about__text h1 {
 	color: #111111;
 	font-weight: 700;
 	text-transform: uppercase;
