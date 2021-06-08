@@ -1,6 +1,6 @@
 # spacecoin.network
 
-The official site for Spacecoin (SPACE).
+The official website for Spacecoin (SPACE).
 
 ![Spacecoin Logo](img/spacecoin_logo.png)
 
